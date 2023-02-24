@@ -24,4 +24,7 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTB: Stocker](https://nikelandjelo.github.io/posts/htb_m_stocker/)
+- [HTB: Precious](https://nikelandjelo.github.io/posts/htb_m_precious/)
+- [Google CTF: Beginners Quest 2021](https://nikelandjelo.github.io/posts/google-beginners-quest/)
 <!-- BLOG-POST-LIST:END -->
