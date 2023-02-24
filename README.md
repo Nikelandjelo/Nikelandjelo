@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HTB: Stocker](https://nikelandjelo.github.io/posts/htb_m_stocker/)
-- [HTB: Precious](https://nikelandjelo.github.io/posts/htb_m_precious/)
-- [Google CTF: Beginners Quest 2021](https://nikelandjelo.github.io/posts/google-beginners-quest/)
+- [HTB: Stocker](https://blog.n11k.xyz/posts/htb_m_stocker/)
+- [HTB: Precious](https://blog.n11k.xyz/posts/htb_m_precious/)
+- [Google CTF: Beginners Quest 2021](https://blog.n11k.xyz/posts/google-beginners-quest/)
 <!-- BLOG-POST-LIST:END -->
