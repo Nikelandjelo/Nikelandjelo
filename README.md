@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nikelandjelo&repo=blog&theme=tokyonight)
 
-# Blog posts
+# Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [HTB: Stocker](https://nikelandjelo.github.io/posts/htb_m_stocker/)
 - [HTB: Precious](https://nikelandjelo.github.io/posts/htb_m_precious/)
