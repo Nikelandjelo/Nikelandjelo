@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Nick
-### A Cybersecurity professional currently working as a *Jr. Security Engineer* at [@CyberSift](https://github.com/CyberSift) and studying *MSci Ethical Hacking and Cybersecurity* at [@coventryuniversity](https://github.com/coventryuniversity)
+##### A Cybersecurity professional currently working as a *Jr. Security Engineer* at [@CyberSift](https://github.com/CyberSift) and studying *MSci Ethical Hacking and Cybersecurity* at [@coventryuniversity](https://github.com/coventryuniversity)
 
 
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikelandjelo&count_private=true&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikelandjelo&layout=compact&theme=tokyonight) |
