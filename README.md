@@ -9,6 +9,7 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTB University CTF 2023: Brains &amp; Bytes -- WindowsOfOpportunity](https://blog.n11k.xyz/posts/htb_uni_2023/)
 - [HTB: Stocker](https://blog.n11k.xyz/posts/htb_m_stocker/)
 - [HTB: Precious](https://blog.n11k.xyz/posts/htb_m_precious/)
 - [Google CTF: Beginners Quest 2021](https://blog.n11k.xyz/posts/google-beginners-quest/)
