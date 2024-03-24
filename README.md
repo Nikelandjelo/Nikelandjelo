@@ -9,9 +9,9 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I love Arch...](https://blog.n11k.xyz/posts/I-love-arch/)
 - [THM Advent of Cyber &#39;23 Side Quest 4 -- The Bandit Surfer](https://blog.n11k.xyz/posts/thm_aoc_23_sq_surfingyetiiscomingtotown/)
 - [THM Advent of Cyber &#39;23 Side Quest 3 -- Frosteau Busy with Vim](https://blog.n11k.xyz/posts/thm_aoc_23_sq_busyvimfrosteau/)
 - [THM Advent of Cyber &#39;23 Side Quest 2 -- Snowy ARMageddon](https://blog.n11k.xyz/posts/thm_aoc_23_sq_armageddon2r/)
 - [THM Advent of Cyber &#39;23 Side Quest 1 -- The Return of the Yeti](https://blog.n11k.xyz/posts/thm_aoc_23_sq_adv3nt0fdbopsjcap/)
-- [THM Advent of Cyber &#39;23 Side Quest -- Find all 4 Keys](https://blog.n11k.xyz/posts/thm_aoc_23_sq/)
 <!-- BLOG-POST-LIST:END -->
